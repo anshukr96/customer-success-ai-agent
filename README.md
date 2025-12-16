@@ -1,6 +1,6 @@
-# OpenAI SDK Tutorial
+# Customer Success AI Agent
 
-A comprehensive tutorial project demonstrating the capabilities of OpenAI's Agents SDK, including agent handoffs, tool usage, and multi-agent orchestration.
+An AI-powered customer success platform demonstrating intelligent agent handoffs, tool usage, and multi-agent orchestration using OpenAI's Agents SDK.
 
 ## 📋 Overview
 
@@ -42,7 +42,7 @@ This project showcases three different implementations of AI agents using the Op
 1. Clone the repository:
 ```bash
 git clone https://github.com/anshukr96/openai-sdk-tutorial.git
-cd openai-sdk-tutorial
+cd customer-success-ai-agent
 ```
 
 2. Install dependencies:
@@ -100,7 +100,7 @@ Runs with auto-reload on file changes.
 ## 📁 Project Structure
 
 ```
-openai-sdk-tutorial/
+customer-success-ai-agent/
 ├── agent_tool.js          # Weather agent with email tool
 ├── agent_manager.js       # Sales & refund agent manager
 ├── agent_handoff.js       # Multi-agent handoff system

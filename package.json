@@ -1,7 +1,7 @@
 {
-  "name": "openai-sdk-tutorial",
+  "name": "customer-success-ai-agent",
   "version": "1.0.0",
-  "description": "",
+  "description": "AI-powered customer success agent with intelligent handoffs for sales and refund management",
   "main": "index.js",
   "type": "module",
   "scripts": {
