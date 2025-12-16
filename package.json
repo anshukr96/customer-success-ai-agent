@@ -1,0 +1,21 @@
+{
+  "name": "openai-sdk-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --import dotenv/config --watch index.js",
+    "start": "node --import dotenv/config index.js",
+    "agent": "node --import dotenv/config agent_tool.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openai/agents": "^0.3.5",
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "nodemailer": "^7.0.11",
+    "zod": "^3.25.76"
+  }
+}
