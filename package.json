@@ -16,6 +16,13 @@
     "axios": "^1.13.2",
     "dotenv": "^17.2.3",
     "nodemailer": "^7.0.11",
+    "openai": "^6.14.0",
     "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
   }
 }
